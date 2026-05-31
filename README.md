@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/vansh17June/Dsa_problem/tree/master/0307-range-sum-query-mutable) |
+| [2126-destroying-asteroids](https://github.com/vansh17June/Dsa_problem/tree/master/2126-destroying-asteroids) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/vansh17June/Dsa_problem/tree/master/0307-range-sum-query-mutable) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/vansh17June/Dsa_problem/tree/master/2126-destroying-asteroids) |
+## Sorting
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/vansh17June/Dsa_problem/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
