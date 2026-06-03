@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/vansh17June/Dsa_problem/tree/master/0307-range-sum-query-mutable) |
 | [2126-destroying-asteroids](https://github.com/vansh17June/Dsa_problem/tree/master/2126-destroying-asteroids) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,8 +29,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/vansh17June/Dsa_problem/tree/master/2126-destroying-asteroids) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/vansh17June/Dsa_problem/tree/master/2126-destroying-asteroids) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 <!---LeetCode Topics End-->
