@@ -30,7 +30,7 @@ public:
         return 0;
       }
       int fp=-1,sp=-1,tight=1,i=0,fnz=0;
-      num1=max(num1,1ll*101);
+      
       string s=to_string(num1-1);
       memset(dp,-1,sizeof(dp));
       long long left=solve(fp,sp,i,tight,s,0,fnz);
