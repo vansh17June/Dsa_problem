@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vansh17June/Dsa_problem/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/vansh17June/Dsa_problem/tree/master/0307-range-sum-query-mutable) |
+| [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 | [2126-destroying-asteroids](https://github.com/vansh17June/Dsa_problem/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vansh17June/Dsa_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/vansh17June/Dsa_problem/tree/master/0233-number-of-digit-one) |
+| [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vansh17June/Dsa_problem/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
@@ -74,16 +76,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vansh17June/Dsa_problem/tree/master/0239-sliding-window-maximum) |
+| [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vansh17June/Dsa_problem/tree/master/0239-sliding-window-maximum) |
+| [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vansh17June/Dsa_problem/tree/master/0239-sliding-window-maximum) |
+| [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vansh17June/Dsa_problem/tree/master/0239-sliding-window-maximum) |
+| [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 <!---LeetCode Topics End-->
