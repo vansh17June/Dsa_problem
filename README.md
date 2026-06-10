@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vansh17June/Dsa_problem/tree/master/0023-merge-k-sorted-lists) |
 | [0307-range-sum-query-mutable](https://github.com/vansh17June/Dsa_problem/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vansh17June/Dsa_problem/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/vansh17June/Dsa_problem/tree/master/0239-sliding-window-maximum) |
 | [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 ## Monotonic Queue
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vansh17June/Dsa_problem/tree/master/0239-sliding-window-maximum) |
 | [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vansh17June/Dsa_problem/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vansh17June/Dsa_problem/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
