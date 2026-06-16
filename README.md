@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vansh17June/Dsa_problem/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/vansh17June/Dsa_problem/tree/master/3612-process-string-with-special-operations-i) |
 ## Queue
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vansh17June/Dsa_problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/vansh17June/Dsa_problem/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
