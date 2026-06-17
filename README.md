@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/vansh17June/Dsa_problem/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/vansh17June/Dsa_problem/tree/master/0044-wildcard-matching) |
 | [0233-number-of-digit-one](https://github.com/vansh17June/Dsa_problem/tree/master/0233-number-of-digit-one) |
 | [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/vansh17June/Dsa_problem/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vansh17June/Dsa_problem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/vansh17June/Dsa_problem/tree/master/0044-wildcard-matching) |
 | [0233-number-of-digit-one](https://github.com/vansh17June/Dsa_problem/tree/master/0233-number-of-digit-one) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/vansh17June/Dsa_problem/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/vansh17June/Dsa_problem/tree/master/0044-wildcard-matching) |
 | [3612-process-string-with-special-operations-i](https://github.com/vansh17June/Dsa_problem/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
