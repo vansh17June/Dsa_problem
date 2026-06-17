@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vansh17June/Dsa_problem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0233-number-of-digit-one](https://github.com/vansh17June/Dsa_problem/tree/master/0233-number-of-digit-one) |
 ## Enumeration
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vansh17June/Dsa_problem/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/vansh17June/Dsa_problem/tree/master/0025-reverse-nodes-in-k-group) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vansh17June/Dsa_problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vansh17June/Dsa_problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
