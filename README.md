@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vansh17June/Dsa_problem/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/vansh17June/Dsa_problem/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vansh17June/Dsa_problem/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/vansh17June/Dsa_problem/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Sorting
 |  |
 | ------- |
