@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vansh17June/Dsa_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/vansh17June/Dsa_problem/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3614-process-string-with-special-operations-ii) |
 ## Queue
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vansh17June/Dsa_problem/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/vansh17June/Dsa_problem/tree/master/0044-wildcard-matching) |
 | [3612-process-string-with-special-operations-i](https://github.com/vansh17June/Dsa_problem/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3614-process-string-with-special-operations-ii) |
 ## Hash Table
 |  |
 | ------- |
