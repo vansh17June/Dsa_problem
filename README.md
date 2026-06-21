@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vansh17June/Dsa_problem/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/vansh17June/Dsa_problem/tree/master/0044-wildcard-matching) |
 | [0233-number-of-digit-one](https://github.com/vansh17June/Dsa_problem/tree/master/0233-number-of-digit-one) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vansh17June/Dsa_problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/vansh17June/Dsa_problem/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vansh17June/Dsa_problem/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vansh17June/Dsa_problem/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/vansh17June/Dsa_problem/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vansh17June/Dsa_problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vansh17June/Dsa_problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
@@ -147,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vansh17June/Dsa_problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/vansh17June/Dsa_problem/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vansh17June/Dsa_problem/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vansh17June/Dsa_problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/vansh17June/Dsa_problem/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Stack
 |  |
@@ -182,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vansh17June/Dsa_problem/tree/master/1833-maximum-ice-cream-bars) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vansh17June/Dsa_problem/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vansh17June/Dsa_problem/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
