@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/vansh17June/Dsa_problem/tree/master/0037-sudoku-solver) |
 | [0239-sliding-window-maximum](https://github.com/vansh17June/Dsa_problem/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/vansh17June/Dsa_problem/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/vansh17June/Dsa_problem/tree/master/0307-range-sum-query-mutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vansh17June/Dsa_problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vansh17June/Dsa_problem/tree/master/0300-longest-increasing-subsequence) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/vansh17June/Dsa_problem/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Math
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vansh17June/Dsa_problem/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/vansh17June/Dsa_problem/tree/master/0044-wildcard-matching) |
 | [0233-number-of-digit-one](https://github.com/vansh17June/Dsa_problem/tree/master/0233-number-of-digit-one) |
+| [0300-longest-increasing-subsequence](https://github.com/vansh17June/Dsa_problem/tree/master/0300-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vansh17June/Dsa_problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/vansh17June/Dsa_problem/tree/master/1483-kth-ancestor-of-a-tree-node) |
