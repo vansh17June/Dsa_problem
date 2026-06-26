@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vansh17June/Dsa_problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/vansh17June/Dsa_problem/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/vansh17June/Dsa_problem/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/vansh17June/Dsa_problem/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vansh17June/Dsa_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vansh17June/Dsa_problem/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/vansh17June/Dsa_problem/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/vansh17June/Dsa_problem/tree/master/2126-destroying-asteroids) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0233-number-of-digit-one](https://github.com/vansh17June/Dsa_problem/tree/master/0233-number-of-digit-one) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vansh17June/Dsa_problem/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/vansh17June/Dsa_problem/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vansh17June/Dsa_problem/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vansh17June/Dsa_problem/tree/master/3751-total-waviness-of-numbers-in-range-i) |
