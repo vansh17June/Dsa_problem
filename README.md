@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/vansh17June/Dsa_problem/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/vansh17June/Dsa_problem/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vansh17June/Dsa_problem/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vansh17June/Dsa_problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vansh17June/Dsa_problem/tree/master/3689-maximum-total-subarray-value-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vansh17June/Dsa_problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vansh17June/Dsa_problem/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vansh17June/Dsa_problem/tree/master/0037-sudoku-solver) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vansh17June/Dsa_problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Backtracking
 |  |
 | ------- |
