@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vansh17June/Dsa_problem/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vansh17June/Dsa_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -187,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/vansh17June/Dsa_problem/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/vansh17June/Dsa_problem/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/vansh17June/Dsa_problem/tree/master/0044-wildcard-matching) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vansh17June/Dsa_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/vansh17June/Dsa_problem/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3614-process-string-with-special-operations-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vansh17June/Dsa_problem/tree/master/0037-sudoku-solver) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vansh17June/Dsa_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vansh17June/Dsa_problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Backtracking
 |  |
