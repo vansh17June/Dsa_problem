@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vansh17June/Dsa_problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/vansh17June/Dsa_problem/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vansh17June/Dsa_problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vansh17June/Dsa_problem/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vansh17June/Dsa_problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/vansh17June/Dsa_problem/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vansh17June/Dsa_problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vansh17June/Dsa_problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vansh17June/Dsa_problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vansh17June/Dsa_problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/vansh17June/Dsa_problem/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vansh17June/Dsa_problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vansh17June/Dsa_problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -232,5 +235,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vansh17June/Dsa_problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vansh17June/Dsa_problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
