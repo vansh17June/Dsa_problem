@@ -254,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/vansh17June/Dsa_problem/tree/master/3620-network-recovery-pathways) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/vansh17June/Dsa_problem/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
