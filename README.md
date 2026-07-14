@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vansh17June/Dsa_problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vansh17June/Dsa_problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vansh17June/Dsa_problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vansh17June/Dsa_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/vansh17June/Dsa_problem/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/vansh17June/Dsa_problem/tree/master/0233-number-of-digit-one) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vansh17June/Dsa_problem/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/vansh17June/Dsa_problem/tree/master/1840-maximum-building-height) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vansh17June/Dsa_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vansh17June/Dsa_problem/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vansh17June/Dsa_problem/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/vansh17June/Dsa_problem/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/vansh17June/Dsa_problem/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vansh17June/Dsa_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/vansh17June/Dsa_problem/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vansh17June/Dsa_problem/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/vansh17June/Dsa_problem/tree/master/1068-product-sales-analysis-i) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vansh17June/Dsa_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
