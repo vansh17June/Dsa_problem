@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vansh17June/Dsa_problem/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/vansh17June/Dsa_problem/tree/master/0307-range-sum-query-mutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vansh17June/Dsa_problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0877-stone-game](https://github.com/vansh17June/Dsa_problem/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/vansh17June/Dsa_problem/tree/master/1301-number-of-paths-with-max-score) |
 | [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/vansh17June/Dsa_problem/tree/master/1833-maximum-ice-cream-bars) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/vansh17June/Dsa_problem/tree/master/0233-number-of-digit-one) |
+| [0877-stone-game](https://github.com/vansh17June/Dsa_problem/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vansh17June/Dsa_problem/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/vansh17June/Dsa_problem/tree/master/1840-maximum-building-height) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vansh17June/Dsa_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/vansh17June/Dsa_problem/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/vansh17June/Dsa_problem/tree/master/0300-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vansh17June/Dsa_problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/vansh17June/Dsa_problem/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/vansh17June/Dsa_problem/tree/master/1301-number-of-paths-with-max-score) |
 | [1425-constrained-subsequence-sum](https://github.com/vansh17June/Dsa_problem/tree/master/1425-constrained-subsequence-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/vansh17June/Dsa_problem/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -265,4 +268,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vansh17June/Dsa_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vansh17June/Dsa_problem/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vansh17June/Dsa_problem/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vansh17June/Dsa_problem/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
