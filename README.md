@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/vansh17June/Dsa_problem/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/vansh17June/Dsa_problem/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/vansh17June/Dsa_problem/tree/master/1683-invalid-tweets) |
 ## Number Theory
 |  |
 | ------- |
