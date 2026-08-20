@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vansh17June/Dsa_problem/tree/master/0037-sudoku-solver) |
+| [0088-merge-sorted-array](https://github.com/vansh17June/Dsa_problem/tree/master/0088-merge-sorted-array) |
 | [0221-maximal-square](https://github.com/vansh17June/Dsa_problem/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/vansh17June/Dsa_problem/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/vansh17June/Dsa_problem/tree/master/0300-longest-increasing-subsequence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vansh17June/Dsa_problem/tree/master/0088-merge-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/vansh17June/Dsa_problem/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vansh17June/Dsa_problem/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vansh17June/Dsa_problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vansh17June/Dsa_problem/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/vansh17June/Dsa_problem/tree/master/0088-merge-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vansh17June/Dsa_problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vansh17June/Dsa_problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vansh17June/Dsa_problem/tree/master/2161-partition-array-according-to-given-pivot) |
