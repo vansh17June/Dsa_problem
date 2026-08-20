@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/vansh17June/Dsa_problem/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vansh17June/Dsa_problem/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/vansh17June/Dsa_problem/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
+| [4024-nearest-available-drone](https://github.com/vansh17June/Dsa_problem/tree/master/4024-nearest-available-drone) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/vansh17June/Dsa_problem/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vansh17June/Dsa_problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vansh17June/Dsa_problem/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [4024-nearest-available-drone](https://github.com/vansh17June/Dsa_problem/tree/master/4024-nearest-available-drone) |
 ## Simulation
 |  |
 | ------- |
